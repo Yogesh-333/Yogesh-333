@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yogesh-333
-- 👀 I’m interested in Flutter 
-- 🌱 I’m currently learning Flutter app and web
+- 👋 Hi, I’m Yogesh Kumar
+- 👀 I’m interested in C# WebApps, Flutter and OpenAI
+- 🌱 I’m currently learning FHIR Health Records and OpenAI custom promts
 - 💞️ I’m looking to collaborate on moblie apps and packages
 - 📫 How to reach me https://www.linkedin.com/in/yogeshkumar333
 - https://yogesh-333.github.io
