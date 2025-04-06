@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yogesh Kumar<br>👀 I’m interested in C# WebApps, Flutter and OpenAI<br>🌱 I’m currently learning FHIR Health Records and OpenAI custom promts<br>💞️ I’m looking to collaborate on moblie apps and packages<br>📫 How to reach me https://www.linkedin.com/in/yogeshkumar333<br>🌐 https://yogesh-333.github.io
+👋 Hi, I’m Yogesh Kumar<br>👀 I’m a Software Developer and Technical Lead with expertise in C#, Flutter, .NET, Azure, and AWS, focusing on building secure, scalable applications in the health-tech and finance sectors. <br>🌱I’m currently enhancing my skills in FHIR Health Records, OpenAI custom prompts, and AI-driven medical transcription systems while playing with Whisper and Gemma models for speech-to-text and natural language processing.<br>💞️ I’m passionate about collaborating on mobile apps, cloud solutions, and healthcare software projects, with experience in developing cross-platform applications, integrating health data standards, and leading teams for cloud-based solutions. <br> 💼 Currently working as a Conestoga Research Student, contributing to a Medical Scribe AI project at Conestoga Applied Research and Innovation. <br> 📫 How to reach me https://www.linkedin.com/in/yogeshkumar333<br>🌐 https://yogesh-333.github.io
 
 
 ## 🌐 Socials:
