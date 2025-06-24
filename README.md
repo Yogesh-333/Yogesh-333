@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/yogeshkumar333" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" style="border-radius:4px;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" style="border-radius:4px;padding:5px;">
 </a>
 <a href="https://orcid.org/0009-0005-4098-0749" target="_blank" style="margin-left:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="70" style="background:white; padding:5px; border-radius:4px;">
