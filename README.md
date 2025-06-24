@@ -5,11 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshkumar333) 
 [![Orcid](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/my-orcid?orcid=0009-0005-4098-0749)
-<div style="background-color:white; display:inline-block; padding:5px; border-radius:8px;">
-  <a href="https://gdg.community.dev/gdg-waterloo/">
-    <img src="https://res.cloudinary.com/startup-grind/image/fetch/c_scale,w_2560/c_crop,h_650,w_2560,y_0.0_mul_h_sub_0.0_mul_650/c_crop,h_650,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/https://res.cloudinary.com/startup-grind/image/upload/c_fill%2Cdpr_2.0%2Cf_auto%2Cg_center%2Cq_auto:good/v1/gcs/platform-data-goog/chapter_banners/gdg_waterloo_logo%2520-%2520Copy_b0ObtGK.png" width="150" alt="GDG Waterloo">
-  </a>
-</div>
+<a href="https://gdg.community.dev/gdg-waterloo/"> <img src="https://camo.githubusercontent.com/b1d19bca8730231db811da76063d167ebf202b03da04bc046fb11ed9d1d48ee7/68747470733a2f2f646576656c6f706572732e676f6f676c652e636f6d2f636f6d6d756e6974792f6764672f696d616765732f6c6f676f2d6c6f636b75702d6764672d686f72697a6f6e74616c5f3732302e706e67" width="150" alt="GDG Waterloo" style="background-color:white; padding:5px; border-radius:8px;"> </a>
 
 
 # 💻 Tech Stack:
