@@ -3,8 +3,12 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeshkumar333) 
-[![Orcid](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/my-orcid?orcid=0009-0005-4098-0749)
+<a href="https://linkedin.com/in/yogeshkumar333" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30" style="border-radius:4px;">
+</a>
+<a href="https://orcid.org/0009-0005-4098-0749" target="_blank" style="margin-left:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" height="30" style="background:white; padding:2px; border-radius:4px;">
+</a>
 <a href="https://gdg.community.dev/gdg-waterloo/"> <img src="https://camo.githubusercontent.com/b1d19bca8730231db811da76063d167ebf202b03da04bc046fb11ed9d1d48ee7/68747470733a2f2f646576656c6f706572732e676f6f676c652e636f6d2f636f6d6d756e6974792f6764672f696d616765732f6c6f676f2d6c6f636b75702d6764672d686f72697a6f6e74616c5f3732302e706e67" width="150" alt="GDG Waterloo" style="background-color:white; padding:5px; border-radius:8px;"> </a>
 
 
